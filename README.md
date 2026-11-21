@@ -12,6 +12,19 @@
 
 ## 快速安装
 
+### 方式一：直接交给 AI 智能体安装（推荐）
+
+直接把本仓库链接和下面这段话发给你的 AI 智能体（Claude Code / Antigravity / Cursor 等）：
+
+```text
+帮我安装这个网上立案 skill：https://github.com/Goodman1888/zxfw-online-filing
+1. 克隆到本地的 skills 目录；
+2. 装好 scripts/ 下的 npm 和 Playwright Chromium 依赖；
+3. 帮我把默认代理人（姓名、电话、律所地址）和常用材料名称改成我自己的，之后先跑一次让我扫码登录人民法院在线服务网。
+```
+
+### 方式二：手动安装
+
 1. 克隆本仓库到你的 AI Agent skills 目录（例如 `~/.claude/skills/zxfw-online-filing` 或 `~/.gemini/config/skills/zxfw-online-filing`）：
 
 ```bash
