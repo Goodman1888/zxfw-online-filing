@@ -14,7 +14,7 @@
 
 ### 方式一：直接交给 AI 智能体安装（推荐）
 
-直接把本仓库链接和下面这段话发给你的 AI 智能体（Claude Code / Antigravity / Cursor 等）：
+直接把本仓库链接和下面这段话发给你的 AI 智能体（Claude Code / Antigravity / Cursor / WorkBuddy 等）：
 
 ```text
 帮我安装这个网上立案 skill：https://github.com/Goodman1888/zxfw-online-filing
